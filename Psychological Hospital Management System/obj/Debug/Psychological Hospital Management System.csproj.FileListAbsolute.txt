@@ -1,0 +1,48 @@
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Psychological Hospital Management System.exe.config
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Psychological Hospital Management System.exe
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Psychological Hospital Management System.pdb
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.Properties.Resources.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological Hospital Management System.csproj.GenerateResource.cache
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological Hospital Management System.exe
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological Hospital Management System.pdb
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.HospitalForm.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.LoginForm.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.AdminForm.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.DoctorForm.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.PatientForm.resources
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\MySql.Data.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Buffers.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Memory.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\ZstdSharp.dll
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\MySql.Data.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Buffers.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Memory.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psycholo.D063DE1D.Up2Date
+C:\Users\canat\OneDrive\Masaüstü\Psychological Hospital Management System\Psychological Hospital Management System\obj\Debug\Psychological_Hospital_Management_System.TestForm.resources
